@@ -60,7 +60,7 @@ class keywords {
 
         sh.setcolor("red");
 
-        System.out.println("shape is : circle ");
+        System.out.println("shape is :  circle ");
         System.out.println("color : " + sh.getcolor());
         System.out.println("Area: " + sh.calculateArea());
     }
